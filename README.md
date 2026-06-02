@@ -1,10 +1,10 @@
-# Tridiotechno
+# Tridiotech
 
 A modern, responsive educational platform website that showcases courses, AI training programs, real-world projects, and mentorship opportunities for students and professionals.
 
 ## 🌟 About
 
-Tridiotechno is a next-generation learning and innovation platform founded by Saurabh Kumar Singh. Our mission is to empower students with practical skills, AI-driven learning, real-world project experience, and industry-focused mentorship. We help learners transform their ideas into impactful projects, build strong portfolios, earn certifications, and prepare for successful careers in technology.
+Tridiotech is a next-generation learning and innovation platform founded by Saurabh Kumar Singh. Our mission is to empower students with practical skills, AI-driven learning, real-world project experience, and industry-focused mentorship. We help learners transform their ideas into impactful projects, build strong portfolios, earn certifications, and prepare for successful careers in technology.
 
 ## ✨ Features
 
@@ -74,8 +74,8 @@ tridiotechno/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jaat100rabh/Tridiotechno.git
-   cd Tridiotechno
+   git clone https://github.com/jaat100rabh/Tridiotech.git
+   cd Tridiotech
    ```
 
 2. **Open the website**:
@@ -92,14 +92,14 @@ tridiotechno/
 
 ## 📧 Contact Information
 
-- **Email**: tridiotechno@gmail.com
+- **Email**: tridiotech@gmail.com
 - **WhatsApp**: +91 8650115781
 - **Founder**: Saurabh Kumar Singh
 
 ## 🌐 Sections Overview
 
 1. **Hero Section**: Professional introduction with company branding
-2. **Founder Section**: Meet the visionaries behind Tridiotechno
+2. **Founder Section**: Meet the visionaries behind Tridiotech
 3. **Courses Section**: Detailed course offerings with features and outcomes
 4. **Skills Section**: Essential skills every participant receives
 5. **About Section**: Company mission, vision, and statistics
@@ -147,14 +147,14 @@ Add new `.faq-item` elements with `.faq-question` and `.faq-answer` content.
 
 ## 📄 License
 
-This project is owned and maintained by Tridiotechno. All rights reserved.
+This project is owned and maintained by Tridiotech. All rights reserved.
 
 ## 🙏 Acknowledgments
 
-- Designed and developed for Tridiotechno
+- Designed and developed for Tridiotech
 - Founder: Saurabh Kumar Singh
 - Built with modern web technologies for optimal performance and user experience
 
 ---
 
-**Tridiotechno** - Empowering the next generation of tech professionals with practical skills and real-world experience.
+**Tridiotech** - Empowering the next generation of tech professionals with practical skills and real-world experience.
